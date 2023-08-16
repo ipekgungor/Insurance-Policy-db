@@ -1,2 +1,2 @@
-# SQL-pPojects
-SQL 
+# SQL-Pojects
+Insurance Company Database
