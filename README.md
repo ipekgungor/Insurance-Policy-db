@@ -51,4 +51,3 @@ To set up the database:
 - **Developer:** İpek Güngör
 - **Email:** ipekgungor2001@gmail.com
 - **GitHub Profile:** ipekgungor
-
